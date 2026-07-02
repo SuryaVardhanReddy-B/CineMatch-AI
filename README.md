@@ -6,10 +6,10 @@ An AI-powered **Content-Based Movie Recommendation System** built using **Python
 
 ## 🚀 Live Demo
 
-*(Add your Streamlit deployment link here after deployment)*
+*(https://suryavardhanreddy-b-cinematch-ai-app-hky2l5.streamlit.app/)*
 
 ```
-https://your-app-name.streamlit.app
+
 ```
 
 ---
@@ -166,7 +166,7 @@ Top 5 Recommendations
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CineMatch-AI.git
+git clone https://github.com/SuryaVardhanReddy-B/CineMatch-AI.git
 ```
 
 Navigate to the project directory
@@ -212,9 +212,9 @@ This project uses the **TMDB 5000 Movie Dataset**, which contains movie metadata
 
 **Surya Vardhan Reddy**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SuryaVardhanReddy-B
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/www.linkedin.com/in/surya-vardhan-reddy-bukkasamudram-831aa0282
 
 ---
 

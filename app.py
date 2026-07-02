@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import requests
 import random
-API_KEY = "1a83bc0f"
+API_KEY = st.secrets["OMDB_API_KEY"]
 def fetch_movie_details(title):
     url = f"https://www.omdbapi.com/?t={title}&apikey={API_KEY}"
 
